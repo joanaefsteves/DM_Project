@@ -5,6 +5,7 @@ Group 36: Eduardo Mendes, 20240850; Joana Esteves, 20240746; João Afonso Freire
 Overview: This project involves multiple notebooks, one notebook generates intermediate files required by subsequent steps.
 
 Main contents: 
+- DM2425_Part1.ipynb: Exploratory data analysis.
 - DM2425_Part2_01.ipynb: Preprocessing steps.
 - DM2425_Part2_02.ipynb: Clustering using DBSCAN and GMM.
 - DM2425_Part2_03.ipynb: Clustering using SOM.
